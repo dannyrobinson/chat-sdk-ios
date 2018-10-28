@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ChatSDK Demo.xcodeproj">
+      location = "self:/Users/dannyrobinson/Code/chat-sdk-ios/Xcode/HelloPorter.xcodeproj">
    </FileRef>
 </Workspace>
